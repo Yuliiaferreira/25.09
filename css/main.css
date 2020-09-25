@@ -1,0 +1,10 @@
+body {
+    background-color: aliceblue;
+}
+
+.particle {
+    width: 10px;
+    height: 10px;
+    background-color: crimson;
+    border-radius: 50%;
+}
